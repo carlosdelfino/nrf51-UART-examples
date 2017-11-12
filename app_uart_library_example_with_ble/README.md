@@ -13,6 +13,7 @@ Requirements
 To compile it, clone the repository in the \nrf51822\Board\nrf6310\S110\ folder.
 
 To port the example to the nRF51822 evaluation kit (PCA10001 board), simply replace the BOARD_NRF6310 constant define in KEIL -> Target Options to BOARD_PCA10001
+
 ![alt tag](Capture - Define the constant for the development kit in Keil Target Options.png)
 
 The project may need modifications to work with other versions or other boards. 
